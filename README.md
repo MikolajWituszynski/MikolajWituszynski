@@ -1,25 +1,52 @@
-# 💫 About Me:
-🌍  I'm based in Warsaw<br>🧠  I'm learning Linux and Solidity<br>🔭 I’m currently working on HitchMate App<br>✉️  You can contact me at mikolaj.wituszynski@gmail.com
+Hi 👋 My name is Mikołaj Wituszyński
+====================================
 
+Software Engineer
+-----------------
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/meek6040) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mikolajwituszynski/ 
-.[[!CodeSignal](data:image/png;base64,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)](https://app.codesignal.com/profile/mikolajwitus)) 
+I have been programming for 2 years. Currently I am working as java software engineer.
 
-# 💻 Tech Stack:
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![APACHEKAFKA](https://img.shields.io/badge/apachekafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white&color=%23231F20) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![KIBANA](https://img.shields.io/badge/kibana-005571.svg?style=for-the-badge&logo=kibana&logoColor=white&color=%23005571) ![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white&color=%234E9BCD) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MikolajWituszynski&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MikolajWituszynski&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MikolajWituszynski&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MikolajWituszynski&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MikolajWituszynski&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=MikolajWituszynski&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*   🌍  I'm based in Europe
+*   ✉️  You can contact me at [mikolaj.wituszynski@gmail.com](mailto:mikolaj.wituszynski@gmail.com)
+*   🧠  I'm learning Linux, Solidity
+*   🤝  I'm open to collaborating on web3 applications### Skills 
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                      <a href="https://www.github.com/MikolajWituszynsk" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.linkedin.com/in/mikolajwituszynski/" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.stackoverflow.com/users/mikolajwituszynski" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.x.com/mwchld" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/MikolajWituszynsk"><img src="https://github-readme-stats.vercel.app/api?username=MikolajWituszynsk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MikolajWituszynsk's GitHub stats" /></a><a
+                      href="http://www.github.com/MikolajWituszynsk"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=MikolajWituszynsk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
+                      href="http://www.github.com/MikolajWituszynsk"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MikolajWituszynsk&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/MikolajWituszynsk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikolajWituszynsk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
