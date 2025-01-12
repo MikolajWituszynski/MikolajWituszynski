@@ -1,16 +1,13 @@
-Hi 👋 My name is Mikołaj Wituszyński
+Hi 👋 My name is Mikołaj
 ====================================
 
 Software Engineer
 -----------------
 
-I have been programming for 2 years. Currently I am working as java software engineer.
+I have been programming for 4 years. Currently I am working as FullStack Developer 
 
 * 🌍  I'm based in Europe
 * ✉️  You can contact me at [mikolaj.wituszynski@gmail.com](mailto:mikolaj.wituszynski@gmail.com)
-* 🧠  I'm learning Linux, Solidity
-* 🤝  I'm open to collaborating on web3 applications
-
 ### Skills
 
 
