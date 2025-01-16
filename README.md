@@ -4,7 +4,7 @@ Hi 👋 My name is Mikołaj
 Software Engineer
 -----------------
 
-I have been programming for 4 years. Currently I am working as FullStack Developer 
+I have been programming for 3 years. Currently I am working as FullStack Developer 
 
 * 🌍  I'm based in Europe
 * ✉️  You can contact me at [mikolaj.wituszynski@gmail.com](mailto:mikolaj.wituszynski@gmail.com)
